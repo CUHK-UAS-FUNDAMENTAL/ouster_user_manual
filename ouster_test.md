@@ -27,7 +27,8 @@ After the user finish the electrical connection of hardware equipment, the OS0-3
 
 The wire network of PC shall be configured as follows:
 
-<img src="/home/gzx/图片/2022-09-14 14-00-38 的屏幕截图.png" alt="2022-09-14 14-00-38 的屏幕截图" style="zoom:67%;" />
+
+![20200902203207373](https://user-images.githubusercontent.com/58619142/192510617-b66d7587-106f-4564-acfc-514b99ef4c24.png)
 
 Then, restart the wire network.
 
@@ -59,7 +60,7 @@ Then, the user can try to ping this IP address. A successful ping illustrates th
 
 For example:
 
-![](/run/user/1000/doc/aeabf5f/20200902210443470.png)
+![20200902210443470](https://user-images.githubusercontent.com/58619142/192510653-c31e3569-ceb7-4f5e-9261-d229ae65bbd8.png)
 
 ## ROS Driver Running
 
@@ -102,7 +103,8 @@ roslaunch ouster_ros sensor.launch
 
 After all thing is done, the effect should be same as the following test demo video.  
 
-<video src="/home/gzx/视频/ouster demo.mkv"></video>
+
+
 
 
 
