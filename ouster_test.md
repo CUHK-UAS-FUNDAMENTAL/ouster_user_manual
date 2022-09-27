@@ -21,7 +21,8 @@ First of all, the user should figure out the required equipments for this test. 
 
 ![20200902203207373](https://user-images.githubusercontent.com/58619142/192510617-b66d7587-106f-4564-acfc-514b99ef4c24.png)
 
-## IP Configuration
+## Software Configuration
+### IP Configuration
 
 After the user finish the electrical connection of hardware equipment, the OS0-32 shall begin to work.  Then, Obvious vibration and heat can be felt by user. 
 
@@ -45,7 +46,7 @@ The user can use following website to see the state and hardware configuration o
 http://os-122233001531.local/
 ```
 
-### First Usage of LIDAR(need to next verify)
+#### First Usage of LIDAR(need to next verify)
 
 If one lidar is the first time to use, the user need to assign an IP address to this sensor.
 
@@ -61,7 +62,7 @@ For example:
 
 ![20200902210443470](https://user-images.githubusercontent.com/58619142/192510653-c31e3569-ceb7-4f5e-9261-d229ae65bbd8.png)
 
-## ROS Driver Running
+### ROS Driver Running
 
 [Here](https://static.ouster.dev/sdk-docs/ros/index.html) is an Ouster ROS driver documentation. However, it may be too complex for a beginner. So, the following will be simpler for source code download and test.
 
