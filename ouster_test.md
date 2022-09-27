@@ -102,9 +102,7 @@ roslaunch ouster_ros sensor.launch
 
 After all thing is done, the effect should be same as the following test demo video.  
 
-
-
-
+![ouster demo 00_00_00-00_00_30](https://user-images.githubusercontent.com/58619142/192511889-d3f65c44-50e3-473b-8719-54fc8c0d7b18.gif)
 
 
 Lidar Sensor Hostname : 122233001531
