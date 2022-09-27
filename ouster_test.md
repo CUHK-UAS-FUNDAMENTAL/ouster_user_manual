@@ -19,7 +19,7 @@ First of all, the user should figure out the required equipments for this test. 
 | 220 V to 24 V AC/DC Adapter            | 1      | Power the interface box                                      |
 | Personal Computer (i.e., TX2, NX, NUC) | 1      | Decode sensor data and visualize it                          |
 
-<img src="/run/user/1000/doc/be460002/20200902203207373.png" alt="Figure1: Hardware Connection" style="zoom:80%;" />
+![20200902203207373](https://user-images.githubusercontent.com/58619142/192510617-b66d7587-106f-4564-acfc-514b99ef4c24.png)
 
 ## IP Configuration
 
@@ -27,8 +27,7 @@ After the user finish the electrical connection of hardware equipment, the OS0-3
 
 The wire network of PC shall be configured as follows:
 
-
-![20200902203207373](https://user-images.githubusercontent.com/58619142/192510617-b66d7587-106f-4564-acfc-514b99ef4c24.png)
+![image](https://user-images.githubusercontent.com/58619142/192510891-5a3ab12b-f7a3-4dba-8b4f-ef8d85d9b3d5.png)
 
 Then, restart the wire network.
 
